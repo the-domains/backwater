@@ -1,7 +1,7 @@
 name: backwater
 favicon: null
-layout_spectrum: 0.416316076181829
-typography_spectrum: 0.28290775045752525
+layout_spectrum: 0.51203
+typography_spectrum: 0.36454
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5103124161250889
+    - '#160b09'
+    - '#c89b84'
+    - '#dfc9cc'
+    - '#843b1b'
+    - '#890d0d'
+  brandStrength: 0.5
   lightness: 0.7849748255684972
   saturation: 0.956547369947657
   rhythmicContrast: 0.12852913700044155
