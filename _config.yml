@@ -1,28 +1,40 @@
-name: backwater
-favicon: null
-layout_spectrum: 0.53577
-typography_spectrum: 0.51806
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.956547369947657
+  brandStrength: 0.5
+  rhythmicContrast: 0.25
   brandColors:
     - '#111111'
     - '#ffffff'
     - '#5e4f38'
     - '#708b9e'
     - '#9fb3ba'
-  brandStrength: 0.5
   lightness: 0.7849748255684972
-  saturation: 0.956547369947657
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: backwater
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.51806
+layout_spectrum: 0
